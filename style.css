@@ -1,0 +1,20 @@
+body{ margin: 0% ;
+background-color: rgb(121, 156, 113)  }
+
+header{
+  background-color: #6ecf97;
+  color: #21094e;
+  height: 300px;
+}
+header nav{
+  float: right;
+  width :30%;
+}
+header div{
+  float: left;
+}
+header nav ul li{ display: inline-block;
+margin-top: 10px ;
+}
+header nav ul li a { text-decoration: non;
+}
